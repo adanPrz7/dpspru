@@ -66,7 +66,7 @@ const preRegister = (req, res) => {
             status: "error"
         });
     }
-    params.kindOfDate = "6940376f185aa3c74aaba521";//Hace referencia al sorteo 2025-2026
+    params.kindOfDate = "6abc99cbb95fc1682e051ccf";//Hace referencia al sorteo 2026-2027
     params.isFull = true;
     params.origen = "Preregistro";
     params.isValidate = false;
